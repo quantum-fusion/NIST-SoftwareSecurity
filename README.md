@@ -1,6 +1,6 @@
 # NIST-SoftwareSecurity
 
-###NIST Secure Software Security 
+### NIST Secure Software Security 
 Secure Software Development Framework (SSDF) Version 1.1 "Recommendations for Mitigating the Risk of Software Vulnerabilities". 
 This document aims to help address secure software development practices throughout the Software Development Lifecycle (SDLC) 
 It focuses on:
@@ -14,5 +14,5 @@ https://bit.ly/3J70aPU
 ####
 https://bit.ly/3rHxaJ0
 
-###Secure Software Factory - Cloud Native Foundation
+### Secure Software Factory - Cloud Native Foundation
 https://bit.ly/3oGiTdB
