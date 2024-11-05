@@ -10,7 +10,8 @@ It focuses on:
 - Responding to Vulnerabilities 
 
 ####
-https://bit.ly/3J70aPU
+Chris Hughes from Resilient Cyber
+https://www.linkedin.com/in/resilientcyber/
 ####
 https://bit.ly/3rHxaJ0
 
