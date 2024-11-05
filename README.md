@@ -15,4 +15,5 @@ https://bit.ly/3J70aPU
 https://bit.ly/3rHxaJ0
 
 ### Secure Software Factory - Cloud Native Foundation
-https://bit.ly/3oGiTdB
+https://tag-security.cncf.io/community/publications/
+
