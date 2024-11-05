@@ -8,7 +8,9 @@ It focuses on:
 - Protecting the Software
 - Producing Well-Secured Software 
 - Responding to Vulnerabilities
- https://bit.ly/3rHxaJ0
+#
+https://bit.ly/3rHxaJ0
+#
 
 ####
 Chris Hughes from Resilient Cyber
